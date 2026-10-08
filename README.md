@@ -2,9 +2,10 @@
 
 **Estudiante Avanzado de Ingeniería en Informática | Backend Developer | IA & Visión por Computadora**
 
-Soy de Catamarca, estoy en la etapa final de Ingeniería en Informática y me dedico al desarrollo Backend. Me gusta resolver problemas complejos uniendo dos mundos que me apasionan: la lógica dura del backend y el procesamiento de datos con Inteligencia Artificial.
+Soy de Catamarca, estoy en la etapa final de Ingeniería en Informática y me dedico al desarrollo de software Full Stack con enfoque en Inteligencia Artificial. Me gusta tener la visión completa de un producto, desde el diseño de la base de datos y la arquitectura, hasta la interfaz de usuario y la integración de modelos de Machine Learning.
 
-Disfruto armando APIs que aguanten tráfico real, pensando en la arquitectura y metiéndome en el barro con modelos matemáticos o visión por computadora cuando el proyecto lo pide. Actualmente estoy buscando mi primera oportunidad para sumarme a un equipo de desarrollo, aportar lo que sé y seguir creciendo.
+Disfruto construyendo sistemas de punta a punta. Ya sea armando una API transaccional de alta concurrencia o integrando visión por computadora para procesamiento en tiempo real, mi objetivo es resolver problemas complejos de forma escalable. Actualmente busco mi primera oportunidad para sumarme a un equipo, aportar mi conocimientos para integrar distintas tecnologías y seguir aprendiendo.
+
 
 ### Stack 
 * **Backend:** Python, Django, Django REST Framework, WebSockets.
@@ -31,7 +32,7 @@ API RESTful para la administración de eventos y venta de entradas con alta conc
 
 ### Actualmente
 * Adentrándome en el mundo del Machine Learning y la Ciencia de Datos, estudiando probabilidad, estadística y modelos de predicción.
-* Optimizando y profundizando mis conocimientos en Arquitectura de Software y Desarrollo Backend para construir sistemas escalables y robustos.
+* Me encuentro estudiando activamente herramientas de producción y DevOps (Docker, flujos CI/CD y Cloud) para aprender a desplegar y mantener estas soluciones en entornos reales.
 
 ### Contacto
 * **LinkedIn:** [linkedin.com/in/lautaro-martin-arce](https://linkedin.com/in/lautaro-martin-arce)
