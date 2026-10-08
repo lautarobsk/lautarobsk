@@ -1,10 +1,10 @@
-# Hola a todos, soy Lautaro Arce
+# Hola, soy Lautaro Arce
 
 **Estudiante Avanzado de Ingeniería en Informática | Backend Developer | IA & Visión por Computadora**
 
-Me especializo en el desarrollo de software escalable, integrando arquitecturas backend robustas con soluciones de Inteligencia Artificial. Mi enfoque principal está en la creación de APIs RESTful complejas, motores de reglas dinámicas y el procesamiento de imágenes en tiempo real. 
+Soy de Catamarca, estoy en la etapa final de Ingeniería en Informática y me dedico al desarrollo Backend. Me gusta resolver problemas complejos uniendo dos mundos que me apasionan: la lógica dura del backend y el procesamiento de datos con Inteligencia Artificial.
 
-Actualmente resido en Catamarca, Argentina, y me encuentro en la etapa final de mi carrera universitaria, buscando oportunidades para aportar en equipos de desarrollo
+Disfruto armando APIs que aguanten tráfico real, pensando en la arquitectura y metiéndome en el barro con modelos matemáticos o visión por computadora cuando el proyecto lo pide. Actualmente estoy buscando mi primera oportunidad para sumarme a un equipo de desarrollo, aportar lo que sé y seguir creciendo.
 
 ### Stack 
 * **Backend:** Python, Django, Django REST Framework, WebSockets.
