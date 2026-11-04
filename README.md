@@ -2,17 +2,14 @@
 
 **Estudiante Avanzado de Ingeniería en Informática | Backend Developer | IA & Visión por Computadora**
 
-Soy de Catamarca, estoy en la etapa final de Ingeniería en Informática y me dedico al desarrollo de software Full Stack (aunque mi gusto siempre es el backend) con enfoque en Inteligencia Artificial. Me gusta tener la visión completa de un producto, desde el diseño de la base de datos y la arquitectura, hasta la interfaz de usuario, automatización y la integración de modelos de Machine Learning.
+Soy de Catamarca, estoy en la etapa final de Ingeniería en Informática y me dedico al desarrollo de software Full Stack con enfoque en Inteligencia Artificial. Me gusta tener la visión completa de un producto, desde el diseño de la base de datos y la arquitectura, hasta la interfaz de usuario, y la automatización con agentes.
 
 Disfruto construyendo sistemas de punta a punta. Ya sea armando una API transaccional de alta concurrencia o integrando visión por computadora para procesamiento en tiempo real, mi objetivo es resolver problemas complejos de forma escalable. Actualmente busco mi primera oportunidad para sumarme a un equipo, aportar mi conocimientos para integrar distintas tecnologías y seguir aprendiendo.
 
-
 ### Stack 
-* **Backend:** Python, Django REST Framework, WebSockets.
-* **Frontend:** JavaScript, TypeScript, React, Leaflet.
-* **Bases de Datos:** PostgreSQL, SQLite.
-* **IA & Data:** OpenCV, YOLO, Scikit-learn.
-* **Herramientas:** Antigravity,  GitHub, VS Code, APIs REST, FAST API.
+*   **Backend & Arquitectura:** Python, Django REST Framework, FastAPI, PostgreSQL, WebSockets, JWT.
+*   **Frontend:** React, TypeScript, JavaScript, Leaflet.
+*   **IA Aplicada, Visión & Automatización:** OpenCV, YOLO, EasyOCR, PaddleOCR, Pandas, integraciones LLM.
 
 ### Alguno de mis proyectos destacados
 
